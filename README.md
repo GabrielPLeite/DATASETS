@@ -1,3 +1,2 @@
 # DATASETS
-![image](https://github.com/user-attachments/assets/d3f0e5f7-99f0-456f-ba4c-d9d667c830f3)
-
+![Top-10-Open-Datasets-Para-Construir-Portfolio-de-Projetos-em-Data-Science](https://github.com/user-attachments/assets/27d9ebb4-2416-417b-af6c-5034891ccc8f)
